@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+/* https://www.webfx.com/blog/web-design/ghost-buttons/ */
+
+.button-style {
+  display: inline-block;
+  width: 200px;
+  padding: 8px;
+  color: white;
+  background: transparent;
+  border-radius: 5px;
+  border: 2px solid #fff;
+  text-align: center;
+  outline: none;
+  font-size: calc(10px + 2vmin);
+  text-decoration: none;
+  transition: background-color 0.2s ease-out,
+              color 0.2s ease-out;
+}
+.button-style:hover,
+.button-style:active {
+  background-color: #27ae60;
+  border: 2px solid #fff;
+  transition: background-color 0.3s ease-in,
+              color 0.3s ease-in;
+}
+
