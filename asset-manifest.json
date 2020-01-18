@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RapidDeploymentForHackathonsWorkshop/static/css/main.2a4b126d.chunk.css",
+    "main.js": "/RapidDeploymentForHackathonsWorkshop/static/js/main.28d2b08a.chunk.js",
+    "main.js.map": "/RapidDeploymentForHackathonsWorkshop/static/js/main.28d2b08a.chunk.js.map",
+    "runtime-main.js": "/RapidDeploymentForHackathonsWorkshop/static/js/runtime-main.8c7720ed.js",
+    "runtime-main.js.map": "/RapidDeploymentForHackathonsWorkshop/static/js/runtime-main.8c7720ed.js.map",
+    "static/js/2.b5df4b9d.chunk.js": "/RapidDeploymentForHackathonsWorkshop/static/js/2.b5df4b9d.chunk.js",
+    "static/js/2.b5df4b9d.chunk.js.map": "/RapidDeploymentForHackathonsWorkshop/static/js/2.b5df4b9d.chunk.js.map",
+    "index.html": "/RapidDeploymentForHackathonsWorkshop/index.html",
+    "precache-manifest.313d036d095e10011fad131dcdbceb39.js": "/RapidDeploymentForHackathonsWorkshop/precache-manifest.313d036d095e10011fad131dcdbceb39.js",
+    "service-worker.js": "/RapidDeploymentForHackathonsWorkshop/service-worker.js",
+    "static/css/main.2a4b126d.chunk.css.map": "/RapidDeploymentForHackathonsWorkshop/static/css/main.2a4b126d.chunk.css.map",
+    "static/js/2.b5df4b9d.chunk.js.LICENSE": "/RapidDeploymentForHackathonsWorkshop/static/js/2.b5df4b9d.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c7720ed.js",
+    "static/js/2.b5df4b9d.chunk.js",
+    "static/css/main.2a4b126d.chunk.css",
+    "static/js/main.28d2b08a.chunk.js"
+  ]
+}
